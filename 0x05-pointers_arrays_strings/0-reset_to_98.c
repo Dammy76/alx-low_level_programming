@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * update pointer value to 98
  * @n: parameter to be provided
